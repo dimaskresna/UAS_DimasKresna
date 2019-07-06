@@ -1,2 +1,2 @@
-# UAS_DimasKresna
-Laravel
+# uas_web
+study web service
